@@ -5,6 +5,7 @@ public class Hard_Git_Task {
 		System.out.println("I'm already tired.");
 		System.out.println("Have a long way to go.");
 		System.out.println("Now 1/3");
+		System.out.println("a third now");
 	}
 
 }
